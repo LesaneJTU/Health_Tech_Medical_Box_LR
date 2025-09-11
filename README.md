@@ -67,5 +67,42 @@ void setup() {
   lcd.print("Place finger");
 }
 ```
+---
 
+## How the Code Works
+
+### 1. Setup Phase (`setup()`)
+
+- Initializes **Serial Monitor** for debugging.
+- Sets up **LCD** and displays a startup message: `"Pulse Monitor - Place finger"`.
+- Configures the **pulse sensor** (input pin, LED blink, threshold).
+- Initializes the **temperature sensor** (MLX90614).
+- Connects the ESP32 to **Wi-Fi**.
+- Starts a lightweight **web server** on port 80.
+
+### 2. Main Loop (`loop()`)
+
+- Reconnects Wi-Fi if the connection drops.
+- Reads pulse data, calculates **BPM**, and determines pulse status (`Low`, `Normal`, `High Pulse`).
+- Reads **ambient** and **object temperature** every second.
+- Logs all readings to **Serial Monitor**.
+- Sends data periodically to **ThingSpeak**.
+- Handles **HTTP client requests** for live data on the ESP32-hosted web page.
+
+### 3. Web Dashboard (`handleClientRequest()`)
+
+- Serves a **responsive HTML page** with:
+  - Heartbeat animation ♥ when pulse is detected
+  - BPM, signal strength, and last beat time
+  - Object and ambient temperature readings
+  - Wi-Fi and ThingSpeak connection status
+- Auto-refreshes every 5 seconds for real-time updates.
+
+### 4. ThingSpeak Integration (`sendToThingSpeak()`)
+
+- Formats sensor data into a ThingSpeak API URL.
+- Sends via HTTP GET request.
+- Confirms success or logs errors.
+
+---
 ---
