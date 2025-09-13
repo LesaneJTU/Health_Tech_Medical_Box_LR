@@ -143,8 +143,7 @@ void setup() {
 ### ThingSpeak Live Feed
 <img width="1249" height="786" alt="Screenshot 2025-09-12 090642" src="https://github.com/user-attachments/assets/b2adc76e-624c-4b37-8c53-6d7bce9c27c8" />
 ### MIT App
-![Uploading IMG_0021.jpeg…]()
-
+![IMG_0021](https://github.com/user-attachments/assets/af9c2a19-9726-43ec-91b8-4d6cf0cd7ccb)
 ### Pulse Sensor Reading
-
+![IMG_0068](https://github.com/user-attachments/assets/436163b5-e884-4651-b9ce-c823c279f387)
 
