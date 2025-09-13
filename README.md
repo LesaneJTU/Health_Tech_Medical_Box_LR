@@ -1,4 +1,4 @@
-# Health_Tech_Medical_Box_LR
+![IMG_0021](https://github.com/user-attachments/assets/59f960a5-a1f2-4348-bb76-b4f955b21be8)<img width="1125" height="624" alt="Screenshot 2025-09-12 091336" src="https://github.com/user-attachments/assets/c1871ea6-4da0-4b46-b16c-3ad745ff7fbf" />## Health_Tech_Medical_Box_LR
 This project is a real-time vital sign monitoring device powered by the Internet of Things. It combines a temperature sensor and a pulse sensor with Wi-Fi connectivity, enabling real-time data transfer to a web or mobile application. The project, which focuses on demonstrating IoT in healthcare monitoring, has been classified as "no problem related," indicating that it is primarily  exploratory and educational in nature. The project is still under development and improvement; it remains a work in progress.
 ---
 
@@ -128,8 +128,22 @@ void setup() {
 - Confirms success or logs errors.
 
 ---
+## Project Pictures
 
-## Schematic
+### Schematic
 <img width="1126" height="478" alt="Schematic" src="https://github.com/user-attachments/assets/dca02ac0-5094-4a9f-abc3-c77fdd588a01" />
+### Sketch of Components Connected 
+<img width="777" height="596" alt="sketch of components" src="https://github.com/user-attachments/assets/0cd73437-945a-441a-bf9c-ee423894ca58" />
+### Physical Board Setup
+<img width="1125" height="624" alt="Screenshot 2025-09-12 091336" src="https://github.com/user-attachments/assets/85eb5a3c-8d8e-4db6-94f8-6acac3266523" />
+### Components
+<img width="1316" height="726" alt="Screenshot 2025-09-12 091256" src="https://github.com/user-attachments/assets/71c44f3b-7e62-4335-8607-553b31c6c989" />
+### Components Wires
+<img width="1347" height="747" alt="Screenshot 2025-09-12 091007" src="https://github.com/user-attachments/assets/181cb9d5-b1e7-4268-beda-c500424a766b" />
+### ThingSpeak Live Feed
+<img width="1249" height="786" alt="Screenshot 2025-09-12 090642" src="https://github.com/user-attachments/assets/b2adc76e-624c-4b37-8c53-6d7bce9c27c8" />
+### MIT App
+![IMG_0021](https://github.com/user-attachments/assets/93ed1c2a-a6cc-4ca5-9f1c-a142cd00ea86)
+### Pulse Sensor Reading
 
 
