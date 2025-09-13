@@ -155,6 +155,4 @@ void setup() {
 <img width="768" height="693" alt="Screenshot 2025-09-13 104141" src="https://github.com/user-attachments/assets/b6f7b3db-cf44-4474-b012-4ab401c25a09" />
 
 ### Soldering Work
-
-
-
+<img width="703" height="704" alt="Screenshot 2025-09-13 104945" src="https://github.com/user-attachments/assets/57752ed8-f209-427c-881d-e601f060dc14" />
