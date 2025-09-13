@@ -105,4 +105,6 @@ void setup() {
 - Confirms success or logs errors.
 
 ---
----
+
+## Schematic
+
