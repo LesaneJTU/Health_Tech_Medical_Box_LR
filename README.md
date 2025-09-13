@@ -37,7 +37,7 @@ This table lists all the components required to build the ESP32 Pulse & Temperat
 
 ---
 
-## Useful Extras
+## Extras
 - USB cable (for programming ESP32) 
 - Small enclosure / 3D printed case for protection  
 
