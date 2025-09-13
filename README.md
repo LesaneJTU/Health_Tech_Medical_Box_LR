@@ -20,6 +20,29 @@ This project is a real-time vital sign monitoring device powered by the Internet
 
 ---
 
+# Bill of Materials (BOM)
+
+This table lists all the components required to build the ESP32 Pulse & Temperature Monitoring System.
+
+| Component Name            | Purpose in Project                 | Quantity | Notes / Specifications        |
+|----------------------------|------------------------------------|----------|--------------------------------|
+| **ESP32**                 | Main microcontroller               | 1        | ESP32 DevKit V1 (recommended) |
+| **Heart Rate Pulse Sensor**| Measure heart rate (BPM)           | 1        | Standard 3-pin pulse sensor   |
+| **I²C LCD 16x2**           | Display all readings               | 1        | With I²C backpack for easy wiring |
+| **IR Thermometer (MLX90614)** | Measures body temperature       | 1        | Object & ambient temperature sensing |
+| **9V Battery**            | Powers the system                  | 1        | Rechargeable or disposable    |
+| **9V Battery Snap Connector** | Connects battery to breadboard  | 1        | Male DC barrel jack optional  |
+| **Jumper Wires**          | Electrical connections             | –        | Male-male + female-male assorted |
+| **Breadboard**            | Circuit assembly & prototyping     | 1        | 400–830 tie-points recommended |
+
+---
+
+## Optional / Useful Extras
+- USB cable (for programming ESP32) 
+- Small enclosure / 3D printed case for protection  
+
+---
+
 ##  Software & Libraries
 - **Arduino IDE** with ESP32 board support  
 - Libraries:  
