@@ -1,4 +1,4 @@
-![IMG_0021](https://github.com/user-attachments/assets/59f960a5-a1f2-4348-bb76-b4f955b21be8)<img width="1125" height="624" alt="Screenshot 2025-09-12 091336" src="https://github.com/user-attachments/assets/c1871ea6-4da0-4b46-b16c-3ad745ff7fbf" />## Health_Tech_Medical_Box_LR
+## Health_Tech_Medical_Box_LR
 This project is a real-time vital sign monitoring device powered by the Internet of Things. It combines a temperature sensor and a pulse sensor with Wi-Fi connectivity, enabling real-time data transfer to a web or mobile application. The project, which focuses on demonstrating IoT in healthcare monitoring, has been classified as "no problem related," indicating that it is primarily  exploratory and educational in nature. The project is still under development and improvement; it remains a work in progress.
 ---
 
@@ -143,7 +143,8 @@ void setup() {
 ### ThingSpeak Live Feed
 <img width="1249" height="786" alt="Screenshot 2025-09-12 090642" src="https://github.com/user-attachments/assets/b2adc76e-624c-4b37-8c53-6d7bce9c27c8" />
 ### MIT App
-![IMG_0021](https://github.com/user-attachments/assets/93ed1c2a-a6cc-4ca5-9f1c-a142cd00ea86)
+![Uploading IMG_0021.jpeg…]()
+
 ### Pulse Sensor Reading
 
 
