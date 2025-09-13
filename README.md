@@ -130,4 +130,6 @@ void setup() {
 ---
 
 ## Schematic
+<img width="1126" height="478" alt="Schematic" src="https://github.com/user-attachments/assets/dca02ac0-5094-4a9f-abc3-c77fdd588a01" />
+
 
