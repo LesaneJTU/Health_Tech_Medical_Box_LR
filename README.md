@@ -132,18 +132,29 @@ void setup() {
 
 ### Schematic
 <img width="1126" height="478" alt="Schematic" src="https://github.com/user-attachments/assets/dca02ac0-5094-4a9f-abc3-c77fdd588a01" />
+
 ### Sketch of Components Connected 
 <img width="777" height="596" alt="sketch of components" src="https://github.com/user-attachments/assets/0cd73437-945a-441a-bf9c-ee423894ca58" />
+
 ### Physical Board Setup
 <img width="1125" height="624" alt="Screenshot 2025-09-12 091336" src="https://github.com/user-attachments/assets/85eb5a3c-8d8e-4db6-94f8-6acac3266523" />
+
 ### Components
 <img width="1316" height="726" alt="Screenshot 2025-09-12 091256" src="https://github.com/user-attachments/assets/71c44f3b-7e62-4335-8607-553b31c6c989" />
+
 ### Components Wires
 <img width="1347" height="747" alt="Screenshot 2025-09-12 091007" src="https://github.com/user-attachments/assets/181cb9d5-b1e7-4268-beda-c500424a766b" />
+
 ### ThingSpeak Live Feed
 <img width="1249" height="786" alt="Screenshot 2025-09-12 090642" src="https://github.com/user-attachments/assets/b2adc76e-624c-4b37-8c53-6d7bce9c27c8" />
+
 ### MIT App
-![IMG_0021](https://github.com/user-attachments/assets/af9c2a19-9726-43ec-91b8-4d6cf0cd7ccb)
+<img width="913" height="651" alt="Screenshot 2025-09-13 104223" src="https://github.com/user-attachments/assets/9266de13-8a8f-4902-b383-cca8cbf9699e" />
+
 ### Pulse Sensor Reading
-![IMG_0068](https://github.com/user-attachments/assets/436163b5-e884-4651-b9ce-c823c279f387)
+<img width="768" height="693" alt="Screenshot 2025-09-13 104141" src="https://github.com/user-attachments/assets/b6f7b3db-cf44-4474-b012-4ab401c25a09" />
+
+### Soldering Work
+<img width="768" height="693" alt="Screenshot 2025-09-13 104141" src="https://github.com/user-attachments/assets/e2ffeaed-e87d-4b9c-91f4-17f31be571f2" />
+
 
