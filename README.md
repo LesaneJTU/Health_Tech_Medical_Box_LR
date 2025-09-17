@@ -2,6 +2,19 @@
 This project is a real-time vital sign monitoring device powered by the Internet of Things. It combines a temperature sensor and a pulse sensor with Wi-Fi connectivity, enabling real-time data transfer to a web or mobile application. The project, which focuses on demonstrating IoT in healthcare monitoring, has been classified as "no problem related," indicating that it is primarily  exploratory and educational in nature. The project is still under development and improvement; it remains a work in progress.
 ---
 
+## Repository Contents
+
+| File / Folder                | Description                                  |
+|-------------------------------|----------------------------------------------|
+| **README.md**                | Main project overview and documentation      |
+| **Bill_of_Materials_LR.pdf** | Bill of Materials (BOM) for all components   |
+| **Schematic.png**            | Circuit schematic of the Health Box          |
+| **sketch of components.png** | Visual sketch of hardware components         |
+| **sketch_sep8c_API_LR.ino**  | Arduino code for Health Box device           |
+| **Visual Demo/**             | (Folder) Contains demo media files (add videos, images, or GIFs here) |
+
+---
+
 ##  Features
 - Real-time **heart rate monitoring** with a pulse sensor  
 - Body **temperature measurement** via I²C temperature sensor  
