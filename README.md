@@ -12,6 +12,8 @@ This project is a real-time vital sign monitoring device powered by the Internet
 | **Schematic.png**            | Circuit schematic of the Health Box          |
 | **sketch of components.png** | Visual sketch of hardware components         |
 | **sketch_sep8c_API_LR.ino**  | Arduino code for Health Box device           |
+| **Part Studio - Health box.zip** | Health Box Assembly                      |
+| **Assembly 1 - Health Box.zip | Steps                                       |
 | **Visual Demo/**             | (Folder) Contains demo media files (add videos, images, or GIFs here) |
 
 ---
