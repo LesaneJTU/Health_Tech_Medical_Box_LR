@@ -160,3 +160,13 @@ void setup() {
 ### Casing
 <img width="734" height="602" alt="Screenshot 2025-09-16 090205" src="https://github.com/user-attachments/assets/61b61560-5a79-4490-8a13-589449dce754" />
 
+---
+## Future Improvements
+- The device should be able to determine when the patient's readings are normal by reading constant readings, and if not, it should be able to tell when the pulse is low or higher than normal, and so as the body temperature. 
+- **Mobile App** should recommend practices of suggest **"What To Do"** to have healthy vital readings   
+- Integrate **battery power + 3D-printed casing**  
+
+---
+
+## Author
+- Lesane Rampete  
