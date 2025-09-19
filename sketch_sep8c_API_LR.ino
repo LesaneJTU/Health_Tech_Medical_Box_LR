@@ -6,11 +6,11 @@
 #include <LiquidCrystal_I2C.h>
 
 // WiFi credentials
-const char* ssid = "E5783_9CEA";
-const char* password = "aDeTi3n8NFqBdRi3";
+const char* ssid = "E*********";
+const char* password = "aDe*********";
 
 // ThingSpeak settings
-const char* thingSpeakApiKey = "BJYELT1UJCKHOSC2";  // Replace with your ThingSpeak API Key
+const char* thingSpeakApiKey = "B**********";  // Replace with your ThingSpeak API Key
 const unsigned long thingSpeakPostDelay = 400; // Post to ThingSpeak every 15 seconds
 unsigned long lastThingSpeakPost = 0;
 
